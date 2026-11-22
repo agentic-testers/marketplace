@@ -14,4 +14,4 @@ claude plugin marketplace add agentic-testers/marketplace
 
 | Plugin | What it does | Install |
 |--------|--------------|---------|
-| [AgenSDET](https://agentic-testers.github.io/agensdet/) | Helps manual QA engineers start test automation with Playwright and Azure Pipelines. | `agensdet@agentic-testers` |
+| [Playwright SDET](https://agentic-testers.github.io/playwright-sdet/) | Helps QA engineers with test automation in Playwright and Azure Pipelines, from the first test onward. | `playwright-sdet@agentic-testers` |
