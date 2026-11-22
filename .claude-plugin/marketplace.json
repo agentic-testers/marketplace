@@ -1,0 +1,13 @@
+{
+  "name": "agentic-testers",
+  "owner": { "name": "agentic-testers", "url": "https://github.com/agentic-testers" },
+  "description": "Claude Code plugins for software testers and quality engineers.",
+  "plugins": [
+    {
+      "name": "agensdet",
+      "source": { "source": "git-subdir", "url": "https://github.com/agentic-testers/agensdet.git", "path": "plugin" },
+      "description": "Helps manual QA engineers start test automation with Playwright and Azure Pipelines.",
+      "homepage": "https://agentic-testers.github.io/agensdet/"
+    }
+  ]
+}
